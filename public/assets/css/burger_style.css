@@ -1,0 +1,42 @@
+body {
+	margin: 5px;
+	background-color: #FFCC66;
+}
+
+h1 {
+	text-align: center;
+}
+
+li {
+  margin: 5px;
+  padding: 5px;
+}
+
+.containertitle{
+  margin-top: 60px;
+}
+
+.mainburger {
+  display: block;
+  margin: 0 auto;
+  height: 180px;
+  width: 180px;
+
+}
+
+#intro {
+	font-size: 18px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  margin: 5px;
+  padding: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
