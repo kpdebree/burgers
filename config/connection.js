@@ -3,7 +3,7 @@ var mysql = require("mysql");
 var connection = mysql.createConnection({
   host: "localhost" || "q3vtafztappqbpzn.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
   user:  "root" || "se6411lddxbli7gd",
-  password: "" || "frq202dgbyp25evw"
+  password: "123Mercutio456" || "frq202dgbyp25evw",
   database: "burgers_db"
 });
 
